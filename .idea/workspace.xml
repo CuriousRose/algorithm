@@ -1,60 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/hdu/hdu_1005/Main.java" description="import java.util.Scanner;&#10;&#10;public class Main {&#10;   ..." line="2" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="415cafba-d146-4400-a00b-34f0ef4f686d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1000/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1001/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1002/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1003/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1004/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1005/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1006/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1007/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1008/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1009/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1010/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1011/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1012/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1013/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1014/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1015/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1016/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1017/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1018/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1019/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1020/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1021/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1022/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1023/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1024/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1025/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1026/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1027/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1028/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1029/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1030/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1031/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1032/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1033/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1034/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1035/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1036/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1037/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1038/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1039/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1040/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1041/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1042/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/think/CovariantArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/think/ZipCompress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/think/apt/AptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1043/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hdu/hdu_1044/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hdu/hdu_1044/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hdu/HDU_1000.java" />
-        <option value="$PROJECT_DIR$/src/hdu/Main.java" />
         <option value="$PROJECT_DIR$/src/hdu/hdu_1001/Main.java" />
         <option value="$PROJECT_DIR$/src/hdu/hdu_1000/Main.java" />
         <option value="$PROJECT_DIR$/src/hdu/hdu_1002/Main.java" />
@@ -143,6 +101,8 @@
         <option value="$PROJECT_DIR$/src/hdu/hdu_1040/Main.java" />
         <option value="$PROJECT_DIR$/src/hdu/hdu_1041/Main.java" />
         <option value="$PROJECT_DIR$/src/hdu/hdu_1042/Main.java" />
+        <option value="$PROJECT_DIR$/src/hdu/hdu_1043/Main.java" />
+        <option value="$PROJECT_DIR$/src/hdu/hdu_1044/Main.java" />
       </list>
     </option>
   </component>
@@ -164,6 +124,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,13 +145,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hdu" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hdu" type="462c0819:PsiDirectoryNode" />
+              <item name="hdu_1044" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hdu.hdu_1040.Main" />
       <module name="algorithm" />
@@ -225,6 +192,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hdu.hdu_1041.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hdu.hdu_1043.Main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdu.hdu_1043.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,16 +226,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hdu.hdu_1038.Main" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hdu.hdu_1038.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -275,19 +242,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -332,14 +299,17 @@
       <workItem from="1543284394138" duration="8505000" />
       <workItem from="1543369031489" duration="8726000" />
       <workItem from="1543542298486" duration="7825000" />
+      <workItem from="1543570501788" duration="605000" />
+      <workItem from="1543717920986" duration="10014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256069000" />
+    <option name="totallyTimeSpent" value="266688000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-1088" width="1936" height="1035" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -350,12 +320,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="9" weight="0.32675907" />
+      <window_info anchor="right" id="Run" order="9" weight="0.41417912" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11353944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11567164" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -372,33 +342,33 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.28144988" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.28144988" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39793578" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.32912844" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,20 +383,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hdu/hdu_1007/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hdu/hdu_1005/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hdu/hdu_1010/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -726,9 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,10 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
-          <folding>
-            <element signature="e#3745#3746#0" expanded="true" />
-            <element signature="e#3782#3783#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,10 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="4525" column="57" lean-forward="true" selection-start-line="4525" selection-start-column="57" selection-end-line="4525" selection-end-column="57" />
-          <folding>
-            <element signature="e#27493#27494#0" expanded="true" />
-            <element signature="e#27542#27543#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -768,9 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,9 +717,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdu/hdu_1043/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdu/hdu_1044/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
