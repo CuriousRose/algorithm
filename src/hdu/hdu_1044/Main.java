@@ -11,6 +11,6 @@ public class Main {
     static char[][] map;
 
     public static void main(String[] args) {
-
+        scanner.close();
     }
 }
